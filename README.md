@@ -32,11 +32,7 @@ to intelligently classify resumes and provide actionable feedback.
 - ✅ CSV Export Support
 - ✅ Live Streamlit Deployment
 
----
-
-## 🧠 How It Works
-
----
+------
 
 ## 🗂️ Supported Domains
 
@@ -56,6 +52,8 @@ to intelligently classify resumes and provide actionable feedback.
 ---
 
 ## 🏗️ Architecture
+
+## 🧠 How It Works
 
 ---
 
@@ -161,4 +159,3 @@ Gen AI Developer | Data Scientist | AI Engineer
 ## ⭐ Support
 
 If you like this project, give it a star ⭐ and share it!
-
