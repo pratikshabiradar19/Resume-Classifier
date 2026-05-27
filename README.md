@@ -127,16 +127,9 @@ Resume-Classifier/
 
 ## 📸 Screenshots
 
-### 1. Resume Upload
-![Upload](images/upload.png)
-
-### 2. Classification Results
-![Results](images/results.png)
-
-### 3. Analytics Dashboard
-![Dashboard](images/dashboard.png)
-
----
+![Upload](upload.png)
+![Results](results.png)
+![Dashboard](dashboard.png)
 
 ## ⚙️ Installation & Setup
 
